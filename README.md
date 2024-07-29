@@ -1,4 +1,3 @@
-Description:
 As my first project in college, I developed a Simple Food Ordering System using Java GUI. This project was designed to streamline the process of ordering food, offering a user-friendly interface and efficient functionality. The system allows users to browse a menu, select items, and place orders with ease.
 
 Features:
